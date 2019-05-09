@@ -9,3 +9,5 @@ Se quiser ajudar/ participar, tá convidado.
 *Links Úteis*
 - Métodos para fazer a Lógica da Árvore
 https://www.devmedia.com.br/armazenando-relacionamentos-hierarquicos-em-bancos-de-dados-relacionais-revista-sql-magazine-104/25970
+- Local para fazer a Estrutura (UML) e Lógica do Programa
+https://www.draw.io/
